@@ -1,0 +1,24 @@
+Rich Metadata Display: Automatically extract and show detailed metadata from files, like camera information for photos or technical details for videos.
+
+AI detection: detect AI generated content and lable it 
+
+AI-Powered Insights: Integrate AI for tasks like image recognition for automatic categorization, transcribing audio files to make them searchable, or summarizing documents.
+
+
+Decentralized Storage Options: Explore integrating with decentralized storage networks for increased data resilience and user control.
+
+
+Advanced Link Controls: Offer more granular control over share links, such as setting limits on the number of views or downloads, or creating one-time-use links.
+
+
+Shareable Collections: Enable users to share entire folders or curated groups of files with a single link.
+
+Direct Platform Sharing: Add built-in options to share files directly to social media or messaging applications.
+
+Visual Upload Feedback: Provide clear and real-time progress bars for uploads, especially for multiple or large files, with estimated time remaining.
+
+Drag-and-Drop Everywhere: Allow users to drag and drop files directly onto the application window (not just a specific dropzone) to initiate uploads.
+
+Background Uploads: Enable uploads to continue in the background while the user navigates to other parts of the application.
+
+

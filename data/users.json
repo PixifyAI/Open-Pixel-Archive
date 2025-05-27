@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1a620291-90ed-43af-9187-6a5069e537d9",
+    "username": "joe",
+    "passwordHash": "hashed-joe",
+    "comments": [],
+    "favoriteFileUniqueNames": [],
+    "sessionId": "fd4f9aea-098e-4775-9ee1-5cd120b92eac"
+  },
+  {
+    "id": "c4eb5e97-06f6-4e3a-a8b4-1e9868db7d4e",
+    "username": "joe2",
+    "passwordHash": "hashed-joe2",
+    "comments": [],
+    "favoriteFileUniqueNames": [],
+    "sessionId": "c8588218-a875-4726-8c0a-e27f3af77b1d"
+  }
+]
